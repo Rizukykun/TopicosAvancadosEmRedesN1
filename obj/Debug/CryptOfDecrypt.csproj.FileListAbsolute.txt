@@ -1,0 +1,8 @@
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\bin\Debug\CryptOfDecrypt.exe.config
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\bin\Debug\CryptOfDecrypt.exe
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\bin\Debug\CryptOfDecrypt.pdb
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\obj\Debug\CryptOfDecrypt.csproj.AssemblyReference.cache
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\obj\Debug\CryptOfDecrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\obj\Debug\CryptOfDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\obj\Debug\CryptOfDecrypt.exe
+C:\Users\082180032\Desktop\CryptOfDecrypt\CryptOfDecrypt\obj\Debug\CryptOfDecrypt.pdb
